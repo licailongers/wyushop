@@ -173,7 +173,7 @@ font {
 						</div>
 						<!-- 自动生成验证码图片 -->
 						<div class="col-sm-2">
-							<img src="/JosaphcyShop/checkImg" />
+							<img src="/wyushop/checkImg" />
 						</div>
 						
 					</div>

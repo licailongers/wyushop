@@ -65,7 +65,7 @@ body {
 				</table>
 			</div>
 		</div>
-		<div style="text-align: center;">
+		<!-- <div style="text-align: center;">
 			<ul class="pagination">
 				<li class="disabled"><a href="#" aria-label="Previous"><span
 						aria-hidden="true">&laquo;</span></a></li>
@@ -81,7 +81,7 @@ body {
 				<li><a href="#" aria-label="Next"> <span aria-hidden="true">&raquo;</span>
 				</a></li>
 			</ul>
-		</div>
+		</div> -->
 	</div>
 
 	<!-- 引入footer.jsp -->

@@ -76,7 +76,7 @@ font {
 									placeholder="请输入验证码">
 							</div>
 							<div class="col-sm-3">
-								<img src="/JosaphcyShop/checkImg" />
+								<img src="/wyushop/checkImg" />
 							</div>
 						</div>
 						<!-- 从request域中获取数据，显示验证码不正确！ -->
